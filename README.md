@@ -20,6 +20,7 @@ https://github.com/cber-io/android/releases/download/<tag>/<apk>
 
 | 版本 | 下载（大陆） | SHA-256 |
 |---|---|---|
+| 1.0.1 (24) | [cber_com_1.0.1_24.apk](https://gh-proxy.com/https://github.com/cber-io/android/releases/download/v1.0.1-24/cber_com_1.0.1_24.apk) | `665c71f5536a3d03af50184b86a45028756e3df616e23a623c6c0012c54fe933` |
 | 1.0.0 (23) | [cber_com_1.0.0_23.apk](https://gh-proxy.com/https://github.com/cber-io/android/releases/download/v1.0.0-23/cber_com_1.0.0_23.apk) | `51be99650c9da2375a28509d0b11c2e16e4f06bce7cb02970ae6dfa76bcc5828` |
 
 ## 签名证书
